@@ -9,7 +9,7 @@ import cucumber.annotation.en.Then;
 import cucumber.annotation.en.When;
 
 
-public class stepDef {
+public class stepdef {
     WebDriver driver=null;
 
     @Given("^User is on registration page$")
